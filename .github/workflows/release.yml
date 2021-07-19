@@ -1,5 +1,5 @@
 on:
-  workflow_dispatch:
+  release:
     branches: [testing]
 
 name: Publish release
